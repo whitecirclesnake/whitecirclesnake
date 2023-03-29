@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![whitecirclesnake GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecirclesnake&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecirclesnake)](https://solved.ac/whitecirclesnake/)
 
