@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![whitecirclesnake GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecirclesnake&show_icons=true&theme=tokyonight)](https://github.com/whitecirclesnake/github-readme-stats)
+![whitecirclesnake GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecirclesnake&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecirclesnake)](https://solved.ac/whitecirclesnake/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecirclesnake&layout=compact)](https://github.com/whitecirclesnake/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecirclesnake&layout=compact)
 
 
 #### 📫 Contacts
