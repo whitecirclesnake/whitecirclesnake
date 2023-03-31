@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### GitHub stats
-![whitecirclesnake GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecirclesnake&show_icons=true&theme=tokyonight)
+![whitecirclesnake GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecirclesnake&show_icons=true&theme=bear)
+#### Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecirclesnake&layout=compact&theme=bear)
 #### Baekjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecirclesnake)](https://solved.ac/whitecirclesnake/)
-#### Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecirclesnake&layout=compact)
 
 
 #### 📫 Contact
